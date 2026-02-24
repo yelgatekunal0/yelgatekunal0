@@ -1,18 +1,39 @@
-# 💫 About Me:
-👋 Hi, I'm Kunal Yelgate<br><br> 🚀 About Me<br>💻 Web Developer in the making  <br>🤖 AI & Machine Learning Enthusiast  <br>📚 Passionate about learning, building, and sharing knowledge  <br><br>I enjoy turning ideas into real-world applications through clean, structured code and continuous practice.<br><br> 🛠️ Skills & Technologies<br><br>💻 Programming<br>- Python<br>- C++<br>- JavaScript<br><br>🌐 Web Development<br>- HTML<br>- CSS<br>- JavaScript<br><br>🔧 Tools<br>- Git<br>- GitHub<br>- VS Code<br><br>📂 Projects<br><br> 🔹 Calculator Web App<br>Responsive calculator built using HTML, CSS, and JavaScript.  <br>- DOM manipulation  <br>- Clean logic handling  <br><br>🔹 Focus Timer App<br>Productivity timer application to improve focus and task management.<br><br> 📚 Currently Learning<br>- Advanced JavaScript<br>- Backend Development<br>- Machine Learning Fundamentals<br>- Data Structures & Algorithms<br><br> 📈 GitHub Stats<br><br>![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)<br><br><br>📫 Connect With Me<br>- 💼 LinkedIn: https://www.linkedin.com/in/kunal-yelgate<br>- 🐙 GitHub: https://github.com/your-github-username<br>- 📧 Email: your-email@example.com<br><br>
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kunal%20Yelgate&fontSize=80&fontAlignY=35&animation=twinkling&desc=Web%20Developer%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=55&descAlign=50" width="100%"/>
+</div>
 
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Space!;Building+the+Future+with+Code;Turning+Ideas+into+Reality;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+  </a>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kunal-yelgate) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yelgatekunal@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yelgatekunal0&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yelgatekunal0&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yelgatekunal0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Profile Views & Social Badges -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yelgatekunal0&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/yelgatekunal0?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/yelgatekunal0?label=Stars&style=flat-square&color=0e75b6" alt="Stars" />
+</div>
+
+<br/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yelgatekunal0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+```javascript
+const kunal = {
+    pronouns: "He" | "Him",
+    location: "India 🌍",
+    role: "Full Stack Developer in the making",
+    passions: ["Web Development", "AI/ML", "Open Source"],
+    currentFocus: "Building scalable web applications",
+    funFact: "I debug with console.log and I'm not ashamed! 😄",
+    lifePhilosophy: "Code. Learn. Repeat. 🚀"
+};
