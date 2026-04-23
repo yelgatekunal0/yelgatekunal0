@@ -15,8 +15,6 @@
 <!-- Profile Views & Dynamic Badges -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yelgatekunal0&label=👀%20Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yelgatekunal0?label=➕%20Followers&style=for-the-badge&color=FF00FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/yelgatekunal0?label=⭐%20Stars&style=for-the-badge&color=00D9FF" alt="Stars" />
   <img src="https://img.shields.io/badge/Status-Coding%20🔥-00D9FF?style=for-the-badge" alt="Status" />
 </div>
 
@@ -45,12 +43,6 @@ const kunal = {
 };
 ```
 
-- 🔭 Currently working on **AI-Integrated Web Applications**
-- 🌱 Mastering **Backend Architecture** & **Machine Learning**
-- 👯 Open to collaborate on **Innovative Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, Web Dev, or Life!**
-- 🎯 Goal: **Build products that impact millions**
-- ⚡ Fun fact: **My code works on first try... sometimes** 🎉
 
 <br clear="right"/>
 
@@ -168,70 +160,6 @@ const kunal = {
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center">
-
-### 🧮 Smart Calculator Pro
-
-<a href="https://github.com/yelgatekunal0/calculator-web-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yelgatekunal0&repo=calculator-web-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&border_radius=15" />
-</a>
-
-**🛠️ Tech Stack:** `HTML5` `CSS3` `JavaScript` `LocalStorage`
-
-**✨ Features:**
-- 🎯 Advanced DOM manipulation
-- 🧮 Complex mathematical operations
-- 📱 Fully responsive design
-- 💾 Calculation history storage
-- ⌨️ Keyboard shortcut support
-- 🎨 Dark/Light mode toggle
-
-**🔗** [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/yelgatekunal0/calculator-web-app) | [Report Bug](https://github.com/yelgatekunal0/calculator-web-app/issues)
-
----
-
-### ⏱️ FocusFlow - Productivity Timer
-
-<a href="https://github.com/yelgatekunal0/focus-timer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yelgatekunal0&repo=focus-timer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&border_radius=15" />
-</a>
-
-**🛠️ Tech Stack:** `JavaScript` `CSS3` `Local Storage` `Web Audio API`
-
-**✨ Features:**
-- ⏰ Customizable Pomodoro timers
-- 📊 Productivity analytics dashboard
-- 🎵 Focus-enhancing soundscapes
-- 🔔 Smart notification system
-- 📈 Weekly progress reports
-- 🎯 Task categorization
-
-**🔗** [Live Demo](https://your-demo-link.com) | [Source Code](https://github.com/yelgatekunal0/focus-timer) | [Request Feature](https://github.com/yelgatekunal0/focus-timer/issues)
-
----
-
-### 🤖 AI Image Classifier *(Coming Soon)*
-
-<a href="https://github.com/yelgatekunal0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yelgatekunal0&repo=ai-image-classifier&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&border_radius=15" />
-</a>
-
-**🛠️ Tech Stack:** `Python` `TensorFlow` `OpenCV` `Flask` `React`
-
-**✨ Features:**
-- 🖼️ Real-time image classification
-- 🧠 Custom model training
-- 🌐 Web interface for predictions
-- 📈 Accuracy visualization
-- ☁️ Cloud model deployment
-- 📱 Mobile-responsive design
-
-**🔗** [In Development](#) | [View Progress](https://github.com/yelgatekunal0)
-
----
-
 ### 🌐 Portfolio Website
 
 <a href="https://github.com/yelgatekunal0/portfolio">
@@ -296,28 +224,6 @@ const kunal = {
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yelgatekunal0&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yelgatekunal0/yelgatekunal0/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yelgatekunal0/yelgatekunal0/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yelgatekunal0/yelgatekunal0/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -361,41 +267,6 @@ const kunal = {
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🙏;Let's+build+something+amazing!+🚀;Happy+Coding!+💻;Star+⭐+some+repos!;Keep+Learning!+📚;Code+with+passion!+❤️" alt="Footer Typing" />
 
 <br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder=true" alt="Jokes Card" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/⚡_Powered_by_Coffee_&_Code_☕-00D9FF?style=for-the-badge&labelColor=0D1117&color=FF00FF" />
-
-<br/><br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Built%20With-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled%20With-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-</p>
-
-<br/>
-
-<img src="https://profile-counter.glitch.me/yelgatekunal0/count.svg" alt="Visitor Count" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Kunal%20Yelgate-FF00FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Open%20Source-💚-00D9FF?style=for-the-badge&labelColor=0D1117" />
-
-<br/><br/>
-
-**© 2024 Kunal Yelgate. All rights reserved.**
-
-*Built with passion, caffeine, and late-night coding sessions 🌙*
-
-</div>
 
 <details>
   <summary>🎁 Click for a surprise!</summary>
