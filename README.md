@@ -157,29 +157,6 @@ const kunal = {
 </p>
 
 </div>
-
----
-
-### 🌐 Portfolio Website
-
-<a href="https://github.com/yelgatekunal0/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yelgatekunal0&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF00FF&text_color=FFFFFF&border_radius=15" />
-</a>
-
-**🛠️ Tech Stack:** `React` `Tailwind CSS` `Framer Motion` `Vite`
-
-**✨ Features:**
-- ✨ Smooth animations & transitions
-- 📱 Fully responsive design
-- 🎨 Modern UI/UX
-- ⚡ Lightning fast performance
-- 🌙 Dark mode support
-- 📧 Contact form integration
-
-**🔗** [Live Site](https://your-portfolio.com) | [Source Code](https://github.com/yelgatekunal0/portfolio)
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
